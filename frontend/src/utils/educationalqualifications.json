@@ -4,5 +4,6 @@
     { "label": "Graduate", "value": "Graduate" },
     { "label": "Postgraduate", "value": "Postgraduate" },
     { "label": "Doctorate", "value": "Doctorate" },
-    { "label": "Professional Certification", "value": "Professional Certification" }
+    { "label": "Professional Certification", "value": "Professional Certification" },
+    { "label": "Others", "value": "Others"}
   ]
