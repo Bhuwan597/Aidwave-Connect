@@ -6,6 +6,6 @@ const { registerVolunteer, loginVolunteer } = require('../controllers/volunteerC
 const router = express.Router()
 
 // router.route('/').post(registerUser).get(protect,allUsers)
-router.route('/').get(registerVolunteer).post(loginVolunteer)
+router.route('/').get().post(registerVolunteer)
 
 module.exports = router

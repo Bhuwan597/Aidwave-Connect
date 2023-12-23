@@ -29,6 +29,7 @@ const Navbar = () => {
   </div>
   <div className="navbar-end">
     <Link to={'/volunteer-form'} className="btn">Work as Volunteer</Link>
+    <Link to={'/login'} className="btn btn-neutral ml-1">Login</Link>
   </div>
 </div>
   )
