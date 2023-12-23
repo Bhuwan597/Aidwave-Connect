@@ -1,30 +1,30 @@
 [
-    {
-      "label": "Province One",
-      "value": "Province One"
-    },
-    {
-      "label": "Province Two",
-      "value": "Province Two"
-    },
-    {
-      "label": "Bagmati Province",
-      "value": "Bagmati Province"
-    },
-    {
-      "label": "Gandaki Province",
-      "value": "Gandaki Province"
-    },
-    {
-      "label": "Province Five",
-      "value": "Province Five"
-    },
-    {
-      "label": "Karnali Province",
-      "value": "Karnali Province"
-    },
-    {
-      "label": "Sudurpashchim Province",
-      "value": "Sudurpashchim Province"
-    }
-  ]
+  {
+    "label": "Koshi Province",
+    "value": "Koshi Province"
+  },
+  {
+    "label": "Province Two",
+    "value": "Province Two"
+  },
+  {
+    "label": "Bagmati Province",
+    "value": "Bagmati Province"
+  },
+  {
+    "label": "Gandaki Province",
+    "value": "Gandaki Province"
+  },
+  {
+    "label": "Lumbini Province",
+    "value": "Lumbini Province"
+  },
+  {
+    "label": "Karnali Province",
+    "value": "Karnali Province"
+  },
+  {
+    "label": "Sudurpashchim Province",
+    "value": "Sudurpashchim Province"
+  }
+]
