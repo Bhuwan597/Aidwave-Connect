@@ -1,0 +1,158 @@
+[
+  { "label": "First Aid Training", "value": "First Aid Training" },
+  { "label": "CPR Certification", "value": "CPR Certification" },
+  {
+    "label": "Disaster Response Training",
+    "value": "Disaster Response Training"
+  },
+  {
+    "label": "Community Outreach Training",
+    "value": "Community Outreach Training"
+  },
+  {
+    "label": "Conflict Resolution Training",
+    "value": "Conflict Resolution Training"
+  },
+  {
+    "label": "Youth Mentorship Training",
+    "value": "Youth Mentorship Training"
+  },
+  { "label": "Elderly Care Training", "value": "Elderly Care Training" },
+  {
+    "label": "Environmental Conservation Training",
+    "value": "Environmental Conservation Training"
+  },
+  { "label": "Team Building Workshop", "value": "Team Building Workshop" },
+  {
+    "label": "Cross-Cultural Sensitivity Training",
+    "value": "Cross-Cultural Sensitivity Training"
+  },
+  {
+    "label": "Leadership Development Program",
+    "value": "Leadership Development Program"
+  },
+  {
+    "label": "Animal Care and Welfare Training",
+    "value": "Animal Care and Welfare Training"
+  },
+  {
+    "label": "Human Rights Advocacy Training",
+    "value": "Human Rights Advocacy Training"
+  },
+  {
+    "label": "Emergency Response Training",
+    "value": "Emergency Response Training"
+  },
+  { "label": "Public Speaking Workshop", "value": "Public Speaking Workshop" },
+  {
+    "label": "Digital Literacy Training",
+    "value": "Digital Literacy Training"
+  },
+  { "label": "Mental Health First Aid", "value": "Mental Health First Aid" },
+  {
+    "label": "Fundraising and Grant Writing Seminar",
+    "value": "Fundraising and Grant Writing Seminar"
+  },
+  {
+    "label": "Project Management Training",
+    "value": "Project Management Training"
+  },
+  {
+    "label": "Health and Safety Training",
+    "value": "Health and Safety Training"
+  },
+  {
+    "label": "Art and Creativity Workshop",
+    "value": "Art and Creativity Workshop"
+  },
+  {
+    "label": "Diversity and Inclusion Training",
+    "value": "Diversity and Inclusion Training"
+  },
+  {
+    "label": "Technology Skills Bootcamp",
+    "value": "Technology Skills Bootcamp"
+  },
+  {
+    "label": "Peer Counseling Certification",
+    "value": "Peer Counseling Certification"
+  },
+  {
+    "label": "Sustainable Development Seminar",
+    "value": "Sustainable Development Seminar"
+  },
+  {
+    "label": "Humanitarian Aid Training",
+    "value": "Humanitarian Aid Training"
+  },
+  {
+    "label": "Educational Program Development",
+    "value": "Educational Program Development"
+  },
+  {
+    "label": "Community Garden Workshop",
+    "value": "Community Garden Workshop"
+  },
+  {
+    "label": "Recycling and Waste Management Training",
+    "value": "Recycling and Waste Management Training"
+  },
+  {
+    "label": "Safe Driving and Transportation Safety",
+    "value": "Safe Driving and Transportation Safety"
+  },
+  {
+    "label": "Agricultural Skills Training",
+    "value": "Agricultural Skills Training"
+  },
+  {
+    "label": "Outdoor Adventure and Survival Skills",
+    "value": "Outdoor Adventure and Survival Skills"
+  },
+  {
+    "label": "Social Media Management Course",
+    "value": "Social Media Management Course"
+  },
+  {
+    "label": "Language Interpretation Training",
+    "value": "Language Interpretation Training"
+  },
+  {
+    "label": "Volunteer Management Certification",
+    "value": "Volunteer Management Certification"
+  },
+  {
+    "label": "Cybersecurity Awareness Training",
+    "value": "Cybersecurity Awareness Training"
+  },
+  {
+    "label": "Artificial Intelligence Basics",
+    "value": "Artificial Intelligence Basics"
+  },
+  {
+    "label": "Community Health and Wellness Program",
+    "value": "Community Health and Wellness Program"
+  },
+  { "label": "STEM Education Training", "value": "STEM Education Training" },
+  {
+    "label": "Legal Aid and Advocacy Workshop",
+    "value": "Legal Aid and Advocacy Workshop"
+  },
+  {
+    "label": "Remote Work and Virtual Collaboration",
+    "value": "Remote Work and Virtual Collaboration"
+  },
+  {
+    "label": "Social Entrepreneurship Bootcamp",
+    "value": "Social Entrepreneurship Bootcamp"
+  },
+  {
+    "label": "Wilderness First Responder Certification",
+    "value": "Wilderness First Responder Certification"
+  },
+  { "label": "Art Therapy Training", "value": "Art Therapy Training" },
+  {
+    "label": "Financial Literacy Workshop",
+    "value": "Financial Literacy Workshop"
+  }
+]

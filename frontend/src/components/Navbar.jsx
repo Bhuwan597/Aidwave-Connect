@@ -15,6 +15,7 @@ const Navbar = () => {
        <Link to={'/guidelines'}>Guidelines</Link>
       </li>
       <li><Link to={'/contact'}>Contact</Link></li>
+      <li><Link to={'/volunteer-form'}>Work as Volunteer</Link></li>
       </ul>
     </div>
     <a href='/' className="font-bold text-xl md:text-2xl">Aidwave Connect</a>
@@ -27,7 +28,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">Work as Volunteer</a>
+    <Link to={'/volunteer-form'} className="btn">Work as Volunteer</Link>
   </div>
 </div>
   )
