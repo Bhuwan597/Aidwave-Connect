@@ -1,7 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import { UserState } from '../contexts/userProvider'
 
 const Navbar = () => {
+  const {user, setUser} = UserState()
   return (
     <div className="navbar bg-blue-500 text-white">
   <div className="navbar-start">
@@ -28,8 +30,10 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
+  {user ? <Link to={'/dashboard'} className="btn btn-neutral ml-1">Dashboard</Link>: <>
     <Link to={'/volunteer-form'} className="btn">Work as Volunteer</Link>
     <Link to={'/login'} className="btn btn-neutral ml-1">Login</Link>
+  </>}
   </div>
 </div>
   )
