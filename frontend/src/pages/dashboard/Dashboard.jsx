@@ -1,8 +1,9 @@
 import React from 'react'
+import Navbar from '../../components/admincomponents/Navbar'
 
 const Dashboard = () => {
   return (
-    <div>Successfull login. This is dashboard.</div>
+    <Navbar/>
   )
 }
 
