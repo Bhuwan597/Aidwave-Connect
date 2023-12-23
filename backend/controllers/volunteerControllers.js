@@ -13,7 +13,7 @@ const loginVolunteer = asyncHandler(async(req,res)=>{
         email,
         password,
     })
-})
+})                                                                          
 
 const searchVolunteer = asyncHandler(async(req,res)=>{
     return res.status(200).json({
