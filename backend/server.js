@@ -3,6 +3,7 @@ const express = require('express')
 const cors = require('cors')
 const connect = require('./config/db_connect')
 const volunteerRoutes = require('./routes/volunteersRoutes')
+const taskRoutes = require('./routes/taskRoutes')
 
 connect()
 
@@ -19,6 +20,7 @@ app.get('/', (req, res) => {
   })
 
   app.use("/api/volunteers", volunteerRoutes);
+  app.use("/api/tasks", taskRoutes);
 
   
 const server = app.listen(

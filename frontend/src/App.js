@@ -9,6 +9,8 @@ import Login from "./pages/login/Login.js";
 import Dashboard from "./pages/dashboard/Dashboard.jsx";
 import UserProvider from "./contexts/userProvider.js";
 import Middleware from "./utils/Middleware.js";
+import Search from "./pages/search/Search.js";
+import Task from "./pages/tasks/Task.js";
 
 function App() {
   return (
@@ -22,11 +24,30 @@ function App() {
             <Route path="/guidelines" element={<Guidelines />} exact />
             <Route path="/volunteer-form" element={<Volunteer />} exact />
             <Route path="/login" element={<Login />} exact />
+            <Route path="/search" element={<Search/>} />
             <Route
               path="/dashboard"
               element={
                 <Middleware>
                   <Dashboard />
+                </Middleware>
+              }
+              exact
+            />
+            <Route
+              path="/dashboard/tasks"
+              element={
+                <Middleware>
+                  <Task />
+                </Middleware>
+              }
+              exact
+            />
+            <Route
+              path="/dashboard/activities"
+              element={
+                <Middleware>
+                  <Activities/>
                 </Middleware>
               }
               exact

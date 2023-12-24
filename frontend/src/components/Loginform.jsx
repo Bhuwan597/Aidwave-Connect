@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import axios from "axios";
 import {useState} from 'react'
 import {useNavigate} from 'react-router-dom'
-
 const Loginform = () => {
   const navigate = useNavigate('/dashboard')
   const [loading, setLoading] = useState(false);
@@ -16,7 +15,7 @@ const Loginform = () => {
     if(!credentials.email || !credentials.password) return
     try {
       setLoading(true);
-      const { data } = await axios.post("/api/volunteers/login", credentials);
+      const { data } = await axios.post(`http://localhost:5000/api/volunteers/login`, credentials);
       setLoading(false);
       if (data) {
         localStorage.setItem("userInfo", JSON.stringify(data));
